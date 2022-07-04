@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tannnnnnnnnn.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-07-04T10:52:15.766Z</updated>
+    <title>校辩才</title>
+    <updated>2022-07-04T11:03:58.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tannnnnnnnnn.github.io"/>
     <link rel="self" href="https://tannnnnnnnnn.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>校辩才</subtitle>
     <logo>https://tannnnnnnnnn.github.io/images/avatar.png</logo>
     <icon>https://tannnnnnnnnn.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 校辩才</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tannnnnnnnnn.github.io/post/hello-gridea/</id>
